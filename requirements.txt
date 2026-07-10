@@ -3,6 +3,9 @@ python-dotenv
 yt-dlp
 pydub
 openai-whisper
+torch
+torchvision
+torchaudio
 langchain
 langchain-community
 langchain-chroma
